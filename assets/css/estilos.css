@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #0b5383;
 }
 
 @media (max-width: 768px) {
@@ -36,4 +36,11 @@ body {
     width: 100px;
   }
 
+}
+.acerca {
+  background-color: black;
+  color: white;
+  padding: 0px;
+  margin: 0;
+  border: 0px;
 }
